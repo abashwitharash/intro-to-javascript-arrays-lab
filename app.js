@@ -52,3 +52,9 @@ const soyIdx = (foods.indexOf("tofu"))
 
 console.log('Exercise 8 result:', soyIdx);
 
+// Exercise 9 
+
+const allFoods = foods.join('->');
+
+console.log('Exercise 9 result:', allFoods);
+
