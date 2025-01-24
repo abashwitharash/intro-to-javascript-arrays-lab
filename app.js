@@ -42,6 +42,13 @@ console.log('Exercise 6 result:', foods);
 
 //Exercise 7 Slice Method 
 
-let yummy = (foods.slice(1, 3));
+const yummy = (foods.slice(1, 3));
 
 console.log('Exercise 7 result:', yummy);
+
+// Exercise 8 Finding an index
+
+const soyIdx = (foods.indexOf("tofu"))
+
+console.log('Exercise 8 result:', soyIdx);
+
