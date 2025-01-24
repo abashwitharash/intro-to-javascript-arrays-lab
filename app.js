@@ -15,3 +15,10 @@ Exercise 1 has been completed for you:
 const foods = ["pizza", "cheeseburger"];  
 
 console.log('Exercise 1 result:', foods);
+
+// Exercise 3 insert at the beginning 
+
+foods.unshift("taco");
+
+console.log('Exercise 3 result:', foods);
+
