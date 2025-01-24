@@ -22,3 +22,9 @@ foods.unshift("taco");
 
 console.log('Exercise 3 result:', foods);
 
+// Exercise 4 access an array element 
+
+const favFood = foods[1];
+
+console.log('Exercise 4 result:', favFood);
+
