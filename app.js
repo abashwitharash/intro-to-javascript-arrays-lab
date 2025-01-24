@@ -28,3 +28,9 @@ const favFood = foods[1];
 
 console.log('Exercise 4 result:', favFood);
 
+// Exercise 5 Splice
+
+foods.splice(2, 0, "tofu")
+
+console.log('Exercise 5 result:', foods);
+
