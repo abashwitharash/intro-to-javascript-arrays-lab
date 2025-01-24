@@ -58,3 +58,9 @@ const allFoods = foods.join('->');
 
 console.log('Exercise 9 result:', allFoods);
 
+// Exercise 10
+
+const hasSoup = foods.includes("soup");
+
+console.log('Exercise 10 result:', hasSoup);
+
