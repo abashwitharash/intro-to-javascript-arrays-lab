@@ -30,7 +30,13 @@ console.log('Exercise 4 result:', favFood);
 
 // Exercise 5 Splice
 
-foods.splice(2, 0, "tofu")
+foods.splice(2, 0, "tofu");
 
 console.log('Exercise 5 result:', foods);
+
+//Exercise 6 Replace Elements 
+
+foods.splice(1,1, "sushi", "cupcake")
+
+console.log('Exercise 6 result:', foods);
 
